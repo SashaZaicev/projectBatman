@@ -1,4 +1,7 @@
 body {
+    position: relative;
+    width: 1440px;
+    height: 1737px;
     background: #0A090A;
     color: white;
     font-family: 'Roboto', sans-serif;
